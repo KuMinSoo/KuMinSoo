@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Junior%20Backend%20Developer!!&fontSize=50&animation=fadeIn&reversal=true&fontColor=d6ace6) 
 
 <p align="center">:wrench: Tech Stack :wrench:<p>
- 
-
 
 <p align="center">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
@@ -13,6 +11,12 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 </p>
+<br><br>
+<p align="center"><br>
+:incoming_envelope: E-mail :incoming_envelope: <br> 
+honestdeveloper8012@gmail.com
+</p>
+
 <br><br>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=KuMinSOO)](https://github.com/KuMinSOO)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuMinSOO)](https://github.com/KuMinSOO/github-readme-stats)
