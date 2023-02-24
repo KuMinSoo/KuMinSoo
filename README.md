@@ -5,6 +5,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
+![test](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuMinSOO)](https://github.com/KuMinSOO/github-readme-stats)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=KuMinSOO)](https://github.com/KuMinSOO)
