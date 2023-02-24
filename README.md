@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Junior%20Backend&fontSize=30)  
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Junior%20Backend&fontSize=50&animation=fadeIn)  
 
 ![자바](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
@@ -16,22 +16,3 @@
 
 
 
-
-
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
-###### Hi there 👋
-**안녕**<br>
-*하세요*<br>
-~~이거~~<br>
-
-* 1번
-* 2번
-[네이버가자](http://www.naver.com)
-
-
-:joy:
