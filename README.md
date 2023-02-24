@@ -2,7 +2,7 @@
 
 
 <div align="center">
-:wrench: Tech Stack :wrench:  
+
 ![자바](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
@@ -13,6 +13,7 @@
 
 
 <p align="center">
+:wrench: Tech Stack :wrench:  
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff">&nbsp;
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">&nbsp;
