@@ -13,9 +13,10 @@ Introduction:green_book:<br><br>
 <p align="center">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp;
 </p>
+<br>
 <p align="center">:wrench: etc :wrench:</p>
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">&nbsp;
