@@ -3,8 +3,8 @@
 <div align="center">:green_book:
 Introduction:green_book:<br><br>
   <span style="font-size:5px">
-    자바 백엔드 개발자로 현재 취업준비하면서<br> 꾸준히 공부하고 사이드 프로젝트 진행하고 있습니다.<br>
-    한계를 뛰어넘어 꾸준히 성장하고
+    자바 백엔드 개발자로 현재 취업준비하면서<br>
+    꾸준히 공부하고 한계를 뛰어넘어 성장하고<br>
     팀에 기여할 수 있는 역량있는 개발자가 되고자합니다.:smile:</span>  
 </div>
 
