@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Junior%20Backend%20Developer!!&fontSize=50&animation=fadeIn&reversal=true&fontColor=d6ace6) 
-
 <div align="center">:green_book:
 Introduction:green_book:<br><br>
   <span style="font-size:5px">  
@@ -8,7 +7,7 @@ Introduction:green_book:<br><br>
     팀에 기여할 수 있는 역량있는 개발자가 되고자합니다.:smile:</span>  
 </div>
 
-<br><br>
+<br>
 <p align="center">:wrench: main Tech Stack :wrench:</p>
 <p align="center">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
@@ -26,12 +25,12 @@ Introduction:green_book:<br><br>
 </p>
 
 <br>
-<p align="center"><br>
+<p align="center">
 :incoming_envelope: E-mail :incoming_envelope: <br><br> 
 honestdeveloper8012@gmail.com
 </p>
 
-<br><br><br>
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuMinSoo)](https://github.com/KuMinSoo/github-readme-stats)
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=KuMinSoo)](https://github.com/KuMinSoo)
