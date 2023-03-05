@@ -33,9 +33,6 @@ honestdeveloper8012@gmail.com
 
 <br>
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=KuMinSOO)](https://github.com/KuMinSOO)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuMinSOO)](https://github.com/KuMinSOO/github-readme-stats)
-
-
-
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=KuMinSoo)](https://github.com/KuMinSOO)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuMinSoo)](https://github.com/KuMinSoo/github-readme-stats)
 
 
