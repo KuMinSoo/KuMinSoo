@@ -26,8 +26,13 @@ Introduction:green_book:<br><br>
 
 <br>
 <p align="center">
-:incoming_envelope: E-mail :incoming_envelope: <br><br> 
+:incoming_envelope: E-mail :incoming_envelope: <br>
 honestdeveloper8012@gmail.com
+</p>
+<br>
+<p align="center">
+:sunny: blog :sunny: <br> 
+https://proudev.tistory.com/
 </p>
 
 <br><br>
